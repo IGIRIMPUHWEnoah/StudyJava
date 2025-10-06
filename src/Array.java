@@ -17,6 +17,7 @@ public class Array {
            arr[0]=new Student("NOAH",6);
 
             System.out.println(arr[0].name);
+            System.out.println(arr[0].age);
 
 
         }
